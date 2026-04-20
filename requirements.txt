@@ -6,4 +6,6 @@ langchain-huggingface
 langgraph
 chromadb
 sentence-transformers
+transformers
+torch
 python-dotenv
