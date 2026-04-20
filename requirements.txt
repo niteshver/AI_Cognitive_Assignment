@@ -1,0 +1,5 @@
+langchain
+langgraph
+chromadb
+sentence-transformers
+python-dotenv
